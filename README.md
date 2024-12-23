@@ -36,59 +36,47 @@ This portfolio consists of:
 
 # 1.Introduction
 
-<p align="center">
-  <img src="https://github.com/jiyapalrecha35/Google.github.io/blob/main/images/Screenshot%202024-07-05%20141324.png?raw=true" alt="Google Infrastructure Screenshot">
-  <br>
-  [5] Google and the various services provided
-  <br>
-</p><br>
-
-
-Google, a global technology leader, offers a wide range of services essential to daily life for billions of people. These include search engines, email, video sharing, cloud computing, document creation, file storage, Google Maps, and productivity apps. Understanding the scale and impact of Google’s services sets the stage for exploring how advanced data structures and algorithms can further enhance their performance and utility.
-The services provided by Google include:
-
-- **Google Search** 🌐: Search engine for finding information online.
-- **Gmail** 📧: Email service for communication.
-- **Google Drive** 💾: Cloud storage for files.
-- **Google Maps** 🗺️: Mapping service for navigation.
-- **YouTube** 📹: Video sharing platform.
-- **Google Photos** 📷: Cloud-based service for photos and videos.
-- **Google Docs, Sheets, Slides** 📄📊📝: Online productivity suite.
-- **Google Calendar** 📅: Online calendar service.
-- **Google Translate** 🌍: Translation service.
-- **Google Chrome** 🌐: Web browser.
-- **Google Ads** 💼: Advertising platform.
-- **Google Cloud Platform (GCP)** ☁️: Cloud computing services.
-- **Android** 📱: Mobile operating system.
-- **Google Assistant** 🗣️: Virtual assistant.
-- **Google Meet** 🎥: Video conferencing platform.
-- **Google Classroom** 🎓: Educational platform.
 
 
 
-### **Google Search**
-**Google Search** is the heart of Google's ecosystem, holding **81.95%** of the global search engine market share as of January 2024 [1]. This dominance highlights the need for fast, relevant search algorithms.
+What is the course about?*  
+The Design and Analysis of Algorithms course provides a comprehensive understanding of computational problem-solving. It emphasizes learning foundational data structures, designing algorithms, and evaluating their efficiency. The course covers various problem-solving techniques such as dynamic programming, greedy algorithms, and divide-and-conquer, with a focus on time and space complexity.  
 
-### **YouTube**
-**YouTube**, owned by Google, is the second most visited website globally, with over **2 billion** logged-in monthly users watching over **1 billion hours** of video daily [2]. The huge data volume requires smart algorithms for recommendations and content moderation.
+*What kind of data structures and algorithms have you studied?*  
+- *Data Structures*:  
+  - *Linear*: Arrays, linked lists, stacks, queues.  
+  - *Hierarchical*: Binary Search Trees (BST), AVL Trees, heaps, tries, Fenwick Trees, skip lists.  
+  - *Graph Structures*: Adjacency lists and matrices, BFS, DFS.  
+  - *Specialized*: Range query structures, Tower of Hanoi representations.  
+  - *Hashing*: Hash tables for efficient data access.  
 
-### **Gmail**
-**Gmail**, Google's email service, has more than **1.8 billion** active users worldwide [3]. This shows the need for efficient data management and strong security protocols to ensure quick, reliable email delivery while protecting user privacy [4].
+- *Algorithms*:  
+  - *Sorting*: Bubble sort, selection sort, insertion sort, merge sort, quicksort.  
+  - *Searching*: Binary search.  
+  - *Graph Algorithms*:  
+    - Traversals: DFS, BFS.  
+    - Shortest Path: Dijkstra’s Algorithm, Bellman-Ford Algorithm.  
+    - Minimum Spanning Tree: Kruskal’s Algorithm, Prim’s Algorithm.  
+    - Transitive Closure: Floyd’s Algorithm, Warshall’s Algorithm.  
+  - *Dynamic Programming*: Knapsack problem, matrix chain multiplication.  
 
-### **Google Maps**
-**Google Maps** is a leader in navigation services, projected to reach **$34.56 billion** by 2025. It serves over **1 billion** users monthly with real-time traffic updates and route optimization, relying on advanced algorithms to handle massive geographic data.
+- *Techniques Studied*:  
+  1. Brute Force  
+  2. Decrease and Conquer  
+  3. Divide and Conquer  
+  4. Transform and Conquer  
+  5. Dynamic Programming  
+  6. Greedy Technique  
+  7. Space and Time Trade-offs
+  8. Randomized Algorithms  
+  9. Backtracking  
 
-### **Google Cloud**
-**Google Cloud** has grown significantly, capturing **9%** of the global cloud infrastructure market as of 2023 [5]. It provides solutions for data storage, machine learning, and enterprise applications, requiring efficient algorithms to ensure scalability and performance.
-
-These statistics highlight the extensive reach and impact of Google’s services, making it an ideal domain for exploring the application of advanced data structures and algorithms to further enhance performance and user experience.
-
-## Enhancing Google's Services with Algorithms
-
-In today's digital age, the **efficiency** and **effectiveness** of technology services can be significantly enhanced through the strategic application of **data structures** and **algorithms**. This portfolio project explores the core functionalities of Google's diverse services, applying the theoretical knowledge and practical skills acquired from courses in **Data Structures and Algorithms (DSA)** and **Algorithmic Problem Solving (APS)**. By using advanced algorithmic techniques and innovative data structures, this project aims to propose solutions to real-world business challenges.
-
-This portfolio demonstrates how algorithms can optimize Google’s services. Each example illustrates how smart problem-solving with algorithms can enhance operational smoothness. Join me in this exploration as we bridge the gap between theory and practice, highlighting the profound impact of data structures and algorithms on modern digital services. Additionally, each case includes a thorough performance analysis to evaluate effectiveness.
-
+*How do you connect the course with real-time applications?*  
+- *Sorting and Searching*: Used in database indexing, search engines, and e-commerce platforms to sort products.  
+- *Graph Algorithms*: Crucial in navigation apps (e.g., Google Maps), logistics (e.g., route optimization), and network designs.  
+- *Tree Data Structures*: Tries are applied in autocomplete and spell-check, AVL trees in efficient database management.  
+- *Dynamic Programming*: Utilized in resource allocation, scheduling problems, and bioinformatics for sequence alignment.  
+- *Backtracking*: Applied in puzzle-solving (e.g., Sudoku) and game development AI.
 
 
 ---
