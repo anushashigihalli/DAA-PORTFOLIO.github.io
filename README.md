@@ -18,20 +18,17 @@
 </dl>
 
 <br> 
-> A stride towards enhanced Google service management.
+> Home Page 
 >
-
 
 <br>
 
-This page hosts:
-(Click on each link to explore the sections ➡️)
+This portfolio consists of:
 
-1. [Introduction](#introduction) - Domain intro 🌱  
-2. [Objectives](#objectives) - Goals and targets 🎯  
-3. [📈 Business Use Cases ➡️ Algorithmic Solutions 🧩](#business-use-cases-and-mapping-algorithms)
-4. [Use Case Insights and Efficiency Metrics](#use-case-and-efficiency-overview) - Efficiency metrics 📊  
-5. [Key Learnings and Insights](#learnings-and-key-takeaways) - Key takeaways 🧠 
+1. [Introduction](#introduction)  
+2. [Course Project Introduction](#Course Project Introduction).   
+3. [Course Learning Reflections](#Course Learning Reflections).
+
 
 
 
