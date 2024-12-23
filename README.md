@@ -2,19 +2,19 @@
 
 <dl>
 <dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
+<dd>Design and Analysis of Algorithms</dd>
 <dt>Course Code</dt>
-<dd>23ECSE309</dd>
+<dd>24ECSC205</dd>
 <dt>Name</dt>
-<dd>Jiya Palrecha</dd>
+<dd>Anusha U Shigihalli</dd>
 <dt>SRN</dt>
-<dd>01fe21bcs094</dd>
+<dd>01FE23BCS044</dd>
 <dt>Course Instructor</dt>
 <dd>Prakash Hegade</dd>
 <dt>University</dt>
 <dd>KLE Technological University, Hubballi-31</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dt>Portfolio Topic</dt>
+<dd>Learning Portfolio</dd>
 </dl>
 
 <br> 
