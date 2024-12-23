@@ -37,20 +37,18 @@ This portfolio consists of:
 # 1.Introduction
 
 
-
-
-What is the course about?*  
+## *What is the course about?*  
 The Design and Analysis of Algorithms course provides a comprehensive understanding of computational problem-solving. It emphasizes learning foundational data structures, designing algorithms, and evaluating their efficiency. The course covers various problem-solving techniques such as dynamic programming, greedy algorithms, and divide-and-conquer, with a focus on time and space complexity.  
 
-*What kind of data structures and algorithms have you studied?*  
-- *Data Structures*:  
+## *What kind of data structures and algorithms have you studied?*  
+- ## *Data Structures*:  
   - *Linear*: Arrays, linked lists, stacks, queues.  
   - *Hierarchical*: Binary Search Trees (BST), AVL Trees, heaps, tries, Fenwick Trees, skip lists.  
   - *Graph Structures*: Adjacency lists and matrices, BFS, DFS.  
   - *Specialized*: Range query structures, Tower of Hanoi representations.  
   - *Hashing*: Hash tables for efficient data access.  
 
-- *Algorithms*:  
+- ## *Algorithms*:  
   - *Sorting*: Bubble sort, selection sort, insertion sort, merge sort, quicksort.  
   - *Searching*: Binary search.  
   - *Graph Algorithms*:  
@@ -60,7 +58,7 @@ The Design and Analysis of Algorithms course provides a comprehensive understand
     - Transitive Closure: Floyd’s Algorithm, Warshall’s Algorithm.  
   - *Dynamic Programming*: Knapsack problem, matrix chain multiplication.  
 
-- *Techniques Studied*:  
+- ## *Techniques Studied*:  
   1. Brute Force  
   2. Decrease and Conquer  
   3. Divide and Conquer  
@@ -71,7 +69,7 @@ The Design and Analysis of Algorithms course provides a comprehensive understand
   8. Randomized Algorithms  
   9. Backtracking  
 
-*How do you connect the course with real-time applications?*  
+## *How do you connect the course with real-time applications?*  
 - *Sorting and Searching*: Used in database indexing, search engines, and e-commerce platforms to sort products.  
 - *Graph Algorithms*: Crucial in navigation apps (e.g., Google Maps), logistics (e.g., route optimization), and network designs.  
 - *Tree Data Structures*: Tries are applied in autocomplete and spell-check, AVL trees in efficient database management.  
